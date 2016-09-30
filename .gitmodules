@@ -1,0 +1,42 @@
+[submodule "OSC"]
+	path = OSC
+	url = git@github.com:CNMAT/OSC.git
+[submodule "LXUSARTDMX"]
+	path = LXUSARTDMX
+	url = git@github.com:claudeheintz/LXUSARTDMX.git
+[submodule "LXDMXEthernet_library"]
+	path = LXDMXEthernet_library
+	url = git@github.com:claudeheintz/LXDMXEthernet_library.git
+[submodule "LXTeensy3DMX_Library"]
+	path = LXTeensy3DMX_Library
+	url = git@github.com:claudeheintz/LXTeensy3DMX_Library.git
+[submodule "LXESP8266DMX"]
+	path = LXESP8266DMX
+	url = git@github.com:claudeheintz/LXESP8266DMX.git
+[submodule "LXDMXWiFi_Library"]
+	path = LXDMXWiFi_Library
+	url = git@github.com:claudeheintz/LXDMXWiFi_Library.git
+[submodule "LoRaLib"]
+	path = LoRaLib
+	url = git@github.com:weustace/LoRaLib.git
+[submodule "TFTLCD-Library"]
+	path = TFTLCD-Library
+	url = git@github.com:adafruit/TFTLCD-Library.git
+[submodule "Adafruit-HX8340B"]
+	path = Adafruit-HX8340B
+	url = git@github.com:adafruit/Adafruit-HX8340B.git
+[submodule "Adafruit-ST7735-Library"]
+	path = Adafruit-ST7735-Library
+	url = git@github.com:adafruit/Adafruit-ST7735-Library.git
+[submodule "Adafruit-PCD8544-Nokia-5110-LCD-library"]
+	path = Adafruit-PCD8544-Nokia-5110-LCD-library
+	url = git@github.com:adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library.git
+[submodule "Adafruit-Graphic-VFD-Display-Library"]
+	path = Adafruit-Graphic-VFD-Display-Library
+	url = git@github.com:adafruit/Adafruit-Graphic-VFD-Display-Library.git
+[submodule "Adafruit-SSD1331-OLED-Driver-Library-for-Arduino"]
+	path = Adafruit-SSD1331-OLED-Driver-Library-for-Arduino
+	url = git@github.com:adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino.git
+[submodule "Adafruit_SSD1306"]
+	path = Adafruit_SSD1306
+	url = git@github.com:adafruit/Adafruit_SSD1306.git
